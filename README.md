@@ -24,10 +24,6 @@ The Sales Analysis Dashboard provides an overview of sales performance using dif
 - Data Visualization
 - Data Analysis
 
-## Dashboard Preview
-
-![Sales Analysis Dashboard](Dashboard.png)
-
 ## Power BI Report
 
 The `.pbix` file is included in this repository and can be downloaded and opened using Power BI Desktop.
