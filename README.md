@@ -1,4 +1,4 @@
-9# Week 1 – Sales Analysis Dashboard
+# Week 1 – Sales Analysis Dashboard
 
 This dashboard was created as part of my Week 1 internship task at Geranx.
 
