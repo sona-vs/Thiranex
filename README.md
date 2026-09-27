@@ -54,3 +54,52 @@ Customer Segmentation based on customer behavior and demographics.
 - `kmeans_model.pkl` – Trained K-Means model
 - `scaler.pkl` – Saved scaler
 - `Analysis_model.ipynb` – Analysis file
+
+ # WEEK 3 Predictive Analytics Using Historical Data
+
+## 📌 Project Overview
+
+This project focuses on predicting future sales using historical sales data.
+
+The historical data is cleaned and analyzed, and a Linear Regression model is used to predict future sales. The results are visualized using graphs to understand the sales trend and predicted values.
+
+## 🎯 Objective
+
+- Analyze historical sales data
+- Clean and prepare the dataset
+- Build a predictive model using Linear Regression
+- Predict future sales
+- Visualize actual and predicted sales
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Excel
+
+## 📂 Files in This Project
+
+- `sales_data.xlsx` – Historical sales dataset
+- `future_sales_predictions.xlsx` – Predicted future sales
+- `predictive_analytics.py` – Python code used for analysis and prediction
+- `sales_regression.png` – Sales regression graph
+- `future_sales_prediction.png` – Future sales prediction graph
+
+## 🔄 Project Workflow
+
+1. Load the historical sales dataset.
+2. Clean and prepare the data.
+3. Analyze the sales data.
+4. Apply Linear Regression.
+5. Predict future sales.
+6. Visualize the results using graphs.
+7. Save the predictions in an Excel file.
+
+## 📊 Results
+
+The Linear Regression model was used to identify the relationship between the historical data and sales values. The project generates graphs showing the sales trend and future sales predictions.
+
+
