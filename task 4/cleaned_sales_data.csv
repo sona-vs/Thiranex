@@ -1,0 +1,102 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Payment_Method,Salesperson,Revenue
+ORD001,2026-04-25,CUST007,Mouse,Electronics,East,1.0,800.0,UPI,Rahul,800.0
+ORD002,2026-01-16,CUST014,Backpack,Accessories,West,2.0,1400.0,UPI,Anu,2800.0
+ORD003,2026-08-03,CUST029,Headphones,Electronics,South,1.0,2200.0,CARD,Rahul,2200.0
+ORD004,2026-08-05,CUST018,Water Bottle,Accessories,North,5.0,650.0,UPI,Priya,3250.0
+ORD005,2026-02-17,CUST007,Keyboard,Electronics,East,4.0,1500.0,UPI,Kavin,6000.0
+ORD006,2026-08-24,CUST008,Desk,Furniture,South,6.0,6000.0,UPI,Meena,36000.0
+ORD007,2026-07-05,CUST013,Notebook,Stationery,East,2.0,120.0,CARD,Meena,240.0
+ORD008,2026-02-10,CUST007,Mouse,Electronics,South,1.0,800.0,CASH,Rahul,800.0
+ORD009,2026-03-18,CUST024,Notebook,Stationery,West,5.0,120.0,CARD,Rahul,600.0
+ORD010,2026-02-06,CUST011,Desk,Furniture,East,4.0,6000.0,CARD,Meena,24000.0
+ORD011,2026-07-14,CUST015,Backpack,Accessories,South,4.0,1400.0,CASH,Priya,5600.0
+ORD012,2026-06-11,CUST018,Desk,Furniture,South,1.0,6000.0,UPI,Kavin,6000.0
+ORD013,2026-09-13,CUST030,Mouse,Electronics,East,4.0,800.0,UPI,Kavin,3200.0
+ORD014,2026-05-15,CUST028,Keyboard,Electronics,South,5.0,1500.0,UPI,Meena,7500.0
+ORD015,2026-03-12,CUST032,Water Bottle,Accessories,East,7.0,650.0,UPI,Meena,4550.0
+ORD016,2026-03-23,CUST005,Mouse,Electronics,North,1.0,800.0,UPI,Kavin,800.0
+ORD017,2026-05-09,CUST001,Notebook,Stationery,West,7.0,120.0,CARD,Meena,840.0
+ORD018,2026-05-31,CUST011,Mouse,Electronics,East,5.0,800.0,UPI,Kavin,4000.0
+ORD019,2026-04-02,CUST007,Laptop,Stationery,East,1.0,180.0,CARD,Meena,180.0
+ORD020,2026-03-24,CUST034,Office Chair,Furniture,South,4.0,7500.0,CASH,Meena,30000.0
+ORD021,2026-02-27,CUST020,Laptop,Electronics,West,6.0,55000.0,UPI,Priya,330000.0
+ORD022,2026-02-10,CUST032,Headphones,Electronics,South,1.0,2200.0,CARD,Anu,2200.0
+ORD023,2026-09-01,CUST011,Mouse,Electronics,South,3.0,800.0,CARD,Meena,2400.0
+ORD024,2026-04-13,CUST026,Office Chair,Furniture,South,7.0,7500.0,CARD,Priya,52500.0
+ORD025,2026-05-07,CUST005,Desk,Furniture,West,8.0,6000.0,UPI,Rahul,48000.0
+ORD026,2026-04-23,CUST005,Desk,Furniture,South,5.0,6000.0,CARD,Anu,30000.0
+ORD027,2026-06-19,CUST033,Laptop,Electronics,North,4.0,55000.0,UPI,Anu,220000.0
+ORD028,2026-03-09,CUST031,Headphones,Electronics,West,5.0,2200.0,UPI,Meena,11000.0
+ORD029,2026-02-18,CUST028,Headphones,Electronics,West,8.0,2200.0,UPI,Anu,17600.0
+ORD030,2026-01-28,CUST004,Desk,Furniture,West,7.0,6000.0,CASH,Anu,42000.0
+ORD031,2026-04-09,CUST035,Notebook,Stationery,North,6.0,120.0,UPI,Rahul,720.0
+ORD032,2026-05-23,CUST016,Pen Set,Stationery,West,3.0,1400.0,UPI,Kavin,4200.0
+ORD033,2026-01-08,CUST016,Mouse,Electronics,North,8.0,800.0,UPI,Anu,6400.0
+ORD034,2026-04-20,CUST004,Keyboard,Electronics,West,7.0,1500.0,CASH,Kavin,10500.0
+ORD035,2026-05-16,CUST019,Keyboard,Electronics,North,7.0,1500.0,CASH,Kavin,10500.0
+ORD036,2026-06-01,CUST004,Notebook,Stationery,South,8.0,120.0,UPI,Rahul,960.0
+ORD037,2026-03-18,CUST031,Water Bottle,Accessories,East,1.0,650.0,UPI,Meena,650.0
+ORD038,2026-02-11,CUST005,Backpack,Accessories,North,3.0,1400.0,CARD,Rahul,4200.0
+ORD039,2026-03-03,CUST016,Water Bottle,Accessories,South,2.0,650.0,CASH,Meena,1300.0
+ORD040,2026-09-25,CUST017,Water Bottle,Accessories,North,1.0,650.0,CASH,Priya,650.0
+ORD041,2026-07-22,Unknown,Headphones,Electronics,South,6.0,2200.0,CASH,Rahul,13200.0
+ORD042,2026-08-23,CUST007,Pen Set,Stationery,North,6.0,180.0,UPI,Meena,1080.0
+ORD043,2026-06-28,CUST016,Mouse,Electronics,East,4.0,800.0,UPI,Anu,3200.0
+ORD044,2026-06-04,CUST034,Desk,Furniture,South,5.0,6000.0,CASH,Meena,30000.0
+ORD045,2026-05-16,CUST007,Laptop,Electronics,North,5.0,55000.0,UPI,Anu,275000.0
+ORD046,2026-04-18,CUST014,Backpack,Accessories,East,3.0,1400.0,CASH,Priya,4200.0
+ORD047,2026-02-17,CUST018,Office Chair,Furniture,East,8.0,7500.0,UPI,Kavin,60000.0
+ORD048,2026-04-25,CUST029,Laptop,Electronics,East,1.0,55000.0,UPI,Rahul,55000.0
+ORD049,2026-02-08,CUST035,Backpack,Accessories,North,7.0,1400.0,UPI,Rahul,9800.0
+ORD050,2026-03-07,CUST020,Laptop,Electronics,South,6.0,55000.0,CASH,Anu,330000.0
+ORD051,2026-05-08,CUST023,Desk,Furniture,East,1.0,6000.0,UPI,Anu,6000.0
+ORD052,2026-03-25,CUST027,Backpack,Accessories,South,7.0,1400.0,UPI,Rahul,9800.0
+ORD053,2026-05-08,CUST011,Laptop,Electronics,East,3.0,55000.0,CASH,Priya,165000.0
+ORD054,2026-04-24,CUST030,Mouse,Electronics,North,7.0,800.0,CASH,Rahul,5600.0
+ORD055,2026-01-13,CUST026,Desk,Furniture,South,5.0,6000.0,UPI,Rahul,30000.0
+ORD056,2026-06-29,CUST026,Desk,Furniture,South,5.0,6000.0,CASH,Meena,30000.0
+ORD057,2026-05-14,CUST017,Backpack,Accessories,North,6.0,1400.0,UPI,Rahul,8400.0
+ORD058,2026-06-10,CUST033,Laptop,Electronics,West,2.0,55000.0,CASH,Kavin,110000.0
+ORD059,2026-01-23,CUST001,Mouse,Electronics,South,7.0,800.0,CASH,Kavin,5600.0
+ORD060,2026-02-05,CUST021,Backpack,Accessories,East,4.0,1400.0,CASH,Priya,5600.0
+ORD061,2026-07-29,CUST026,Mouse,Electronics,East,5.0,800.0,CARD,Priya,4000.0
+ORD062,2026-07-14,CUST020,Office Chair,Furniture,South,3.0,7500.0,CASH,Rahul,22500.0
+ORD063,2026-04-18,CUST021,Notebook,Stationery,East,1.0,120.0,CASH,Kavin,120.0
+ORD064,2026-04-20,CUST031,Pen Set,Stationery,West,8.0,180.0,CASH,Meena,1440.0
+ORD065,2026-06-21,CUST016,Keyboard,Electronics,East,2.0,1500.0,CARD,Anu,3000.0
+ORD066,2026-01-13,CUST016,Office Chair,Furniture,South,4.0,7500.0,UPI,Anu,30000.0
+ORD067,2026-04-10,CUST032,Pen Set,Stationery,West,2.0,180.0,CASH,Kavin,360.0
+ORD068,2026-07-09,CUST028,Notebook,Stationery,South,4.0,120.0,CARD,Anu,480.0
+ORD069,2026-05-08,CUST030,Headphones,Electronics,West,3.0,2200.0,UPI,Anu,6600.0
+ORD070,2026-09-16,CUST029,Keyboard,Electronics,East,8.0,1500.0,CASH,Kavin,12000.0
+ORD071,2026-05-07,CUST034,Keyboard,Electronics,West,8.0,1500.0,CASH,Priya,12000.0
+ORD072,2026-02-09,CUST016,Pen Set,Electronics,East,4.0,180.0,CASH,Priya,720.0
+ORD073,2026-02-11,CUST010,Office Chair,Furniture,East,6.0,7500.0,CARD,Rahul,45000.0
+ORD074,2026-04-20,CUST027,Headphones,Electronics,South,7.0,2200.0,CARD,Anu,15400.0
+ORD075,2026-02-01,CUST027,Notebook,Stationery,West,6.0,120.0,CASH,Rahul,720.0
+ORD076,2026-01-04,CUST020,Notebook,Stationery,West,1.0,120.0,CASH,Priya,120.0
+ORD077,2026-04-23,CUST028,Notebook,Stationery,South,7.0,120.0,CASH,Priya,840.0
+ORD078,2026-07-27,CUST030,Pen Set,Stationery,West,1.0,180.0,CASH,Rahul,180.0
+ORD079,2026-01-14,CUST028,Keyboard,Electronics,West,5.0,1500.0,CARD,Anu,7500.0
+ORD080,2026-05-14,CUST021,Keyboard,Electronics,South,8.0,1500.0,UPI,Kavin,12000.0
+ORD081,2026-07-14,CUST027,Headphones,Electronics,East,8.0,2200.0,CASH,Priya,17600.0
+ORD082,2026-01-27,CUST015,Office Chair,Furniture,West,2.0,7500.0,UPI,Priya,15000.0
+ORD083,2026-04-13,CUST010,Mouse,Electronics,North,1.0,800.0,UPI,Anu,800.0
+ORD084,2026-02-28,CUST014,Headphones,Electronics,West,3.0,2200.0,CARD,Meena,6600.0
+ORD085,2026-02-28,CUST020,Pen Set,Stationery,East,5.0,180.0,UPI,Unknown,900.0
+ORD086,2026-07-12,CUST013,Mouse,Electronics,East,1.0,800.0,CARD,Kavin,800.0
+ORD087,2026-06-04,CUST008,Mouse,Electronics,North,4.0,800.0,CARD,Meena,3200.0
+ORD088,2026-08-08,CUST005,Water Bottle,Accessories,East,1.0,650.0,CARD,Priya,650.0
+ORD089,2026-09-08,CUST028,Backpack,Accessories,North,6.0,1400.0,CASH,Anu,8400.0
+ORD090,2026-04-01,CUST018,Desk,Furniture,South,8.0,6000.0,CASH,Meena,48000.0
+ORD091,2026-05-18,CUST016,Water Bottle,Accessories,West,8.0,650.0,CASH,Priya,5200.0
+ORD092,2026-08-26,CUST025,Mouse,Electronics,West,5.0,55000.0,UPI,Meena,275000.0
+ORD093,2026-04-04,CUST014,Desk,Furniture,West,1.0,6000.0,CASH,Kavin,6000.0
+ORD094,2026-05-22,CUST001,Desk,Furniture,East,5.0,6000.0,CASH,Meena,30000.0
+ORD095,2026-07-28,CUST016,Backpack,Accessories,North,4.0,1400.0,UPI,Kavin,5600.0
+ORD096,2026-02-17,CUST015,Pen Set,Stationery,West,8.0,180.0,UPI,Priya,1440.0
+ORD097,2026-07-08,CUST034,Notebook,Stationery,North,4.0,120.0,CARD,Kavin,480.0
+ORD098,2026-08-21,CUST020,Desk,Furniture,East,7.0,6000.0,CASH,Priya,42000.0
+ORD099,2026-04-09,CUST008,Office Chair,Furniture,North,4.0,7500.0,CARD,Priya,30000.0
+ORD100,2026-09-05,CUST034,Backpack,Accessories,South,0.0,1400.0,UPI,Priya,0.0
+ORD004,2026-08-05,CUST018,Water Bottle,Accessories,North,5.0,0.0,UPI,Priya,0.0
