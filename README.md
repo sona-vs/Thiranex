@@ -102,4 +102,47 @@ The historical data is cleaned and analyzed, and a Linear Regression model is us
 
 The Linear Regression model was used to identify the relationship between the historical data and sales values. The project generates graphs showing the sales trend and future sales predictions.
 
+# Week 4 – Data Cleaning & Reporting Automation
+
+## Overview
+
+As part of Week 4 of my internship, I worked on a **Data Cleaning & Reporting Automation** task using Python.
+
+The main objective was to clean a messy sales dataset, handle missing and invalid data, perform basic sales analysis, and create visual reports from the cleaned data.
+
+---
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- CSV Dataset
+
+---
+
+## Task Objectives
+
+- Load and inspect the raw sales dataset
+- Remove duplicate records
+- Handle missing values
+- Fix invalid and negative values
+- Standardize text data
+- Convert date values into the correct format
+- Calculate revenue
+- Analyze sales by different categories
+- Create visualizations
+- Export the cleaned dataset
+
+---
+
+## Steps Performed
+
+### 1. Load the Dataset
+
+The raw sales dataset was loaded using Pandas.
+
+```python
+df = pd.read_csv("raw_sales_data_messy.csv")
+
 
